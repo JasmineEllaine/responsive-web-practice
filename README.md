@@ -1,6 +1,6 @@
 # Responsive Web Development Practice
 
-My journey to learning responsive HTML/CSS coding
+> *My journey to learning responsive HTML/CSS coding*
 
 
 Resources: http://codingheroes.io/resources/
